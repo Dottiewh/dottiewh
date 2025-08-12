@@ -1,4 +1,7 @@
-## Hi there 👋
+#¡Hola!
+###Soy Dottiewh, y me gusta aprender
+
+_Actualmente estoy aprendiendo Java_
 
 <!--
 **Dottiewh/dottiewh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
