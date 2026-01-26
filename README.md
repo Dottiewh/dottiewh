@@ -1,5 +1,5 @@
 # ¡Hola!
-### Soy Dottiewh, y me gusta aprender
+### Soy Dottiewh
 
 _Actualmente estoy aprendiendo Java_
 
